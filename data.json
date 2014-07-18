@@ -1,0 +1,24 @@
+{
+    "fields": {
+        "project": {
+            "id": "10000"
+        },
+        "summary": "something's wrong",
+        "issuetype": {
+            "id": "1"
+        },
+        "assignee": {
+            "name": "admin"
+        },
+        "reporter": {
+            "name": "admin"
+        },
+        "priority": {
+            "id": "1"
+        },
+        "labels": [
+            "blitz_test"
+        ],
+        "description": "description"
+    }
+}
